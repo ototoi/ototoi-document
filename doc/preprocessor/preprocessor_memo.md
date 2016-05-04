@@ -3,6 +3,10 @@
 ##本文書について
 Cプリプロセッサ動作を個人的メモを記述するものである。
 
+##参考資料
+- "C++でCプリプロセッサを作ったり速くしたりしたお話" http://www.slideshare.net/kinukox/cc-55863339
+- "Dave Prosser's C Preprocessing Algorithm" http://www.spinellis.gr/blog/20060626/
+
 ##コメントは削除されるのか？
 - デフォルトではコメントは削除される。
 - オプションでコメントを削除しないモードが存在する。
